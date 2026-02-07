@@ -143,7 +143,3 @@ java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.
 - **Maven** — Build et gestion de dépendances (plugin `javafx-maven-plugin`)
 
 ---
-
-## 📄 Contexte
-
-Projet réalisé dans le cadre du **TP1 — Interface Homme-Machine (JavaFX)** | EPSI Lille — Bachelor 3 Data & IA
